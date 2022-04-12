@@ -22,3 +22,22 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+Pacote download/java/Aula02/build.xml
+Pacote download/java/Aula02/build/classes/.netbeans_automatic_build
+Pacote download/java/Aula02/build/classes/.netbeans_update_resources
+*.xml
+*.mf
+*.properties
+Pacote download/java/Aula03/build/classes/.netbeans_automatic_build
+Pacote download/java/Aula03/build/classes/.netbeans_update_resources
+Pacote download/java/calculadoraIdade/build/classes/.netbeans_automatic_build
+Pacote download/java/calculadoraIdade/build/classes/.netbeans_update_resources
+Pacote download/java/ComparacaoString/build/classes/.netbeans_automatic_build
+Pacote download/java/ComparacaoString/build/classes/.netbeans_update_resources
+Pacote download/java/Cont01/build/classes/.netbeans_automatic_build
+Pacote download/java/Cont01/build/classes/.netbeans_update_resources
+Pacote download/java/Cont02/build/classes/.netbeans_automatic_build
+Pacote download/java/Cont02/build/classes/.netbeans_update_resources
+Pacote download/java/EquacaoSegundoG/build/classes/.netbeans_automatic_build
+Pacote download/java/EquacaoSegundoG/build/classes/.netbeans_update_resources
+Pacote download/java/EquacaoSegundoG/src/TelaEquacao/TelaEquacao.form
